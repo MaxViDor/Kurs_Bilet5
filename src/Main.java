@@ -15,7 +15,7 @@ public static void main(String[] args) {
         int[] arr = generateRandomArray();
     System.out.println(arr);
 }
-//        int [] arr = generateRandomArray();
+        int [] arr = generateRandomArray();
 //        for (int i = 0; i < arr.length; i++)
 //            if (i % 2 == 0)
 //                i++;
